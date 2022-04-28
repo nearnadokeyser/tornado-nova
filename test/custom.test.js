@@ -76,7 +76,7 @@ describe('Custom Tests', function () {
       // [assignment] complete code here
   })
 
-  it('[assignment] iii. see assignment doc for details', async () => {
-      // [assignment] complete code here
+  it('[bonus] iii. see assignment doc for details', async () => {
+      // [bonus] complete code here
   })
 })
