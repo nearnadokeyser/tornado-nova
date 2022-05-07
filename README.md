@@ -16,7 +16,6 @@ This project was presented on LisCon 2021. [Slides](https://docs.google.com/pres
 
 ```shell
 yarn
-yarn download
 yarn build
 yarn test
 ```
