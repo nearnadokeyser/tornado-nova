@@ -1,4 +1,4 @@
-# Tornado Pool [![Build Status](https://github.com/tornadocash/tornado-pool/workflows/build/badge.svg)](https://github.com/tornadocash/tornado-pool/actions)
+# Tornado Pool [![Build Status](https://github.com/nearnadokeyser/tornado-pool/workflows/build/badge.svg)](https://github.com/nearnadokeyser/tornado-pool/actions)
 
 This an experimental version of tornado.cash that allows to deposit **arbitrary amounts** and make **internal(shielded) transfers**.
 
